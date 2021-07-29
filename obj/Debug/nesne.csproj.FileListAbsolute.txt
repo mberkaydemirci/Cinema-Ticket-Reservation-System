@@ -1,0 +1,14 @@
+C:\Users\proxe\source\repos\nesne\bin\Debug\nesne.exe.config
+C:\Users\proxe\source\repos\nesne\bin\Debug\nesne.exe
+C:\Users\proxe\source\repos\nesne\bin\Debug\nesne.pdb
+C:\Users\proxe\source\repos\nesne\obj\Debug\nesne.csprojAssemblyReference.cache
+C:\Users\proxe\source\repos\nesne\obj\Debug\nesne.csproj.CoreCompileInputs.cache
+C:\Users\proxe\source\repos\nesne\obj\Debug\nesne.exe
+C:\Users\proxe\source\repos\nesne\obj\Debug\nesne.pdb
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\bin\Debug\nesne.exe.config
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\bin\Debug\nesne.exe
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\bin\Debug\nesne.pdb
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\obj\Debug\nesne.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\obj\Debug\nesne.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\obj\Debug\nesne.exe
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\nesne\nesne\obj\Debug\nesne.pdb
